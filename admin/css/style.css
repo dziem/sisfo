@@ -12,3 +12,6 @@ main th:last-child, main td:last-child{
 .invisible-top {
     top: 65px !important;
   }
+#theTable tbody tr{
+	display: none;
+}
